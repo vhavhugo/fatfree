@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '6f4845c16d052d23d2e82d2cecd82a858a1aee1b',
+    'reference' => '07d5a10970717a83393f92ad2778f0bf200400e5',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '6f4845c16d052d23d2e82d2cecd82a858a1aee1b',
+      'reference' => '07d5a10970717a83393f92ad2778f0bf200400e5',
     ),
     'bcosca/fatfree-core' => 
     array (

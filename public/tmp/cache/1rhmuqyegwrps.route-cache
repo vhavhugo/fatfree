@@ -1,0 +1,1 @@
+a:3:{i:0;a:1:{s:30:"/helloWorld/@name/@age/@height";a:1:{i:0;a:2:{s:3:"GET";a:4:{i:0;s:35:"Controllers\Index->helloWorldAction";i:1;i:0;i:2;i:0;i:3;N;}s:4:"POST";a:4:{i:0;s:35:"Controllers\Index->helloWorldAction";i:1;i:0;i:2;i:0;i:3;N;}}}}i:1;d:1620778552.330206;i:2;i:86400;}
