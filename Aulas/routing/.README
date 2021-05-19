@@ -1,0 +1,15 @@
+# Rotas
+
+
+$fw = Base::instance();
+$fw->route('GET /', function($fw){ echo "Olá mundo!";});
+$fw->run();
+
+http://localhost:8000
+
+$fw = Base::instance();
+$fw->route('GET /olamundo', function($fw){ echo "Olá mundo!";});
+$fw->run();
+
+http://localhost:8000/olamundo
+

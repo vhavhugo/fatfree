@@ -1,0 +1,13 @@
+{
+    "name": "hugodovalle/fatfreetutorial1",
+    "description": "Curso do Mark Takacs",
+    "authors": [
+        {
+            "name": "vhavhugo",
+            "email": "vhavhugo@hotmail.com"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree":"3.5.0"
+    }
+}
